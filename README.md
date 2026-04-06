@@ -4,7 +4,7 @@
 
 # Synapse
 
-**Synapse v1.0** – A lightweight neural network library in Python for learning and prediction, designed for simplicity and rapid prototyping.
+**Synapse v0.0.1** – A lightweight neural network library in Python for learning and prediction, designed for simplicity and rapid prototyping.
 
 ---
 
