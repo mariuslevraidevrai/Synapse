@@ -69,7 +69,7 @@ print(result)
 #### Initialization
 
 ```python
-NeuralNetwork(layers, activation='sigmoid', lr=0.001, normalize=True, task='regression')
+NeuralNetwork(layers, activation='sigmoid', lr=0.001, normalize=True, task='regression',clip=0.1)
 ```
 
 **Parameters:**
